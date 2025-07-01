@@ -12,7 +12,6 @@ const defaultPopupSettings = {
 export function ItemsGrid() {
   const { characters } = useData();
   const [popupSettings, setPopupSettings] = useState(defaultPopupSettings);
-
   function cardOnClickHandler(props) {
     setPopupSettings({
       visible: true,
