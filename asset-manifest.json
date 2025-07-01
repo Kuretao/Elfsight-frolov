@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/elfsight-test-task/static/css/main.869ee58a.css",
+    "main.js": "/elfsight-test-task/static/js/main.3f888e5d.js",
+    "static/media/green-portal.png": "/elfsight-test-task/static/media/green-portal.a218ca229093de6f08d2.png",
+    "static/media/widget-logo.png": "/elfsight-test-task/static/media/widget-logo.42c8df0b92603ef2e2e2.png",
+    "static/media/male.svg": "/elfsight-test-task/static/media/male.42d01c2c5e1d7025a594642a761f1939.svg",
+    "index.html": "/elfsight-test-task/index.html",
+    "static/media/Close.svg": "/elfsight-test-task/static/media/Close.c73e1b9a9596f1f0b9e6950567c4d4a8.svg",
+    "static/media/genderless.svg": "/elfsight-test-task/static/media/genderless.dec799ed2f3cfbb46522c185f9dbb030.svg",
+    "static/media/female.svg": "/elfsight-test-task/static/media/female.02f202d68bdd63c12690625cf6aec3fd.svg",
+    "static/media/Arrow.svg": "/elfsight-test-task/static/media/Arrow.3ab589f55223e32b2781dbb3bca30325.svg",
+    "main.869ee58a.css.map": "/elfsight-test-task/static/css/main.869ee58a.css.map",
+    "main.3f888e5d.js.map": "/elfsight-test-task/static/js/main.3f888e5d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.869ee58a.css",
+    "static/js/main.3f888e5d.js"
+  ]
+}
