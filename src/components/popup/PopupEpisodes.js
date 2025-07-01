@@ -26,6 +26,10 @@ export function PopupEpisodes({ episodes }) {
         } else {
           setSeries(data);
         }
+        setIsFetching(false);
+      })
+      .catch(() => {
+        setIsFetching(false);
       });
   }, [episodes]);
 
